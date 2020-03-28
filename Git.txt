@@ -42,6 +42,28 @@ commit passado
 
 git rm(mome do arquivo)-Remove arquivos do git
 
+git tag -a v1.0(Define a versão do arquivo) -m(nomeia a versão)
+git tag -a (v0.0)-versão desejada do seu sistema e codigo da git que deseja
+git show v(que vc quiser ver)- saber mais sobre cada versão escolhida
+
+git checkout v(versão desejada)Ele troca para versão digitada
+
+excluindo tag
+git checkout 'master'- retorna ao inicio
+git tag
+git tag -d + versão que vc quer deletar.
+
+criando ambiente de teste - serve se vc precisar fazer outra coisa e não perde onde parou
+git cranch+(nome do branch)
+Git checkout +(nome do branch) -Qual branch quero usar
+para pular as duas etapas:
+git checkout -b +(nome do branch) - pula as duas etapas
+git merge (qual branch) tras as atualizações de outros branch
+git branch -d (nome do branch) -exclui o teste e volta ao original
+
+ssh-keygen - autorizar meu computador mecher no hithub
+
+git clone - tras os arquivos para o computador
+
+
 https://www.youtube.com/watch?v=Fhd8OKIDQ5M&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0&index=5
-
-
