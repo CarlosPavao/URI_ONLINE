@@ -1,0 +1,47 @@
+Aprendendo Git
+Git cd - Acessar a Pasta
+git init - inicializar o git na pasta
+git status - pasta não inicializadas 
+git add .(Nome do arquivo).(tipo de arquivo)- adicionar
+determinado arquivo
+
+git add*.(Tipo do arquivo) - adiciona todos os arquivos daquele 
+tipo
+
+git commit -m "(Nome que vai me lembrar aquele arquivo")-Enviar
+o arquivo para o git
+
+git commit -a(pula o git add) -m - envia todos os arquivos sem
+passar pela area intermediaria
+
+git diff - ver tudo que foi alterado no arquivo
+
+git diff --staged - verificar o que foi alterado e esta ainda
+na area intermediaria
+
+git log - ver as alterações que foram feitas.
+
+git log -p - mostra todas as alterações feitas em cada commit.
+
+git log -p -(Quantidade de commit que quer ver) - mostra todas 
+as alterações feitas em uma quantidade de commit.
+
+git log --pretty=oneline - verifica o codigo de cada commit
+e seus codigos de envio
+
+gitk - mostra todas as alterações em interface grafica.
+
+git commit --amend -m "Novas Funcionalidade(edição)" - mandar um
+commit em um que ja foi feito no commit anterior sem acrescentar 
+um novo commit
+
+git reset HEAD (Nome do arquivo)-Remove da area intermediaria.
+
+git checkout -- (nome do arquivo)- volta ao estado anterior do
+commit passado
+
+git rm(mome do arquivo)-Remove arquivos do git
+
+https://www.youtube.com/watch?v=Fhd8OKIDQ5M&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0&index=5
+
+
