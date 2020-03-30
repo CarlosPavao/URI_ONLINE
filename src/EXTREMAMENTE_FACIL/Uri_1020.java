@@ -25,5 +25,7 @@ public class Uri_1020 {
         System.out.println(ano+" ano(s)");
         System.out.println(mes+" mes(es)");
         System.out.println(dia+" dia(s)");
+    
+    entrada.close();
     }
 }

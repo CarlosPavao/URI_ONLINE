@@ -23,5 +23,7 @@ public class Uri_1019 {
         int qtdseg = A/1;
         A=A%1;
         System.out.println(qtdhoras+":"+qtdminutos+":"+qtdseg);
+  
+   entrada.close();
   }
 }

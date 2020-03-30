@@ -61,8 +61,7 @@ public class Uri_1021 {
         
         valor = (int)(valorI/0.01);
         System.out.printf("%d moeda(s) de R$ 0.01%n",valor);
-        
-        
-        
+    
+    entrada.close();     
     }
 }

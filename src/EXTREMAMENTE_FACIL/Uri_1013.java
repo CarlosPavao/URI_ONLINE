@@ -22,5 +22,7 @@ public class Uri_1013 {
         int abc = (ab+ c + Math.abs (ab-c))/2;
         System.out.println(abc + " eh o maior");
        
+    entrada.close();
+    
     }
 }

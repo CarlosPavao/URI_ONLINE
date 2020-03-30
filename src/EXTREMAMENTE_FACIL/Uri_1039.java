@@ -60,11 +60,12 @@ public class Uri_1039 {
             System.out.println("Aluno reprovado.");
         }
         
-        System.out.printf("Media fina: %.1f%n",notafinal);
+        System.out.printf("Media final: %.1f%n",notafinal);
         }
         else if(media<5){
             System.out.printf("Media: %.1f\n",media);
             System.out.print("Aluno reprovado.\n");
         }
+        entrada.close();
     }
 }

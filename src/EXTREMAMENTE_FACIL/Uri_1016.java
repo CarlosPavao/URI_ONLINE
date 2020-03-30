@@ -20,5 +20,7 @@ public class Uri_1016 {
          int tempo = (60*distancia)/30;
          
          System.out.println(tempo+" minutos");
+
+    entrada.close();
     }
 }

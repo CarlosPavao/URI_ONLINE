@@ -31,6 +31,8 @@ public class Uri_1018 {
             valor=valor%2; 
              System.out.println(valor/1+" nota(s) de R$ 1,00");
             valor=valor%1;  
+    
+     entrada.close();
     }
     
 }

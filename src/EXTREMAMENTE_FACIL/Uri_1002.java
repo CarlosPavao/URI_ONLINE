@@ -17,6 +17,9 @@ public class Uri_1002 {
         Scanner entrada = new Scanner(System.in);
         
         double raio = entrada .nextDouble();
+        
+        entrada.close();
+        
         double n = 3.14159;
         double area = n*(raio*raio);
                System.out.format("A=%.4f%n ",  area);

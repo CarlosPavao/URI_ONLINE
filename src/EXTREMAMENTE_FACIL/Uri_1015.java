@@ -22,5 +22,8 @@ public class Uri_1015 {
     //Math.pow = elevado
               
         System.out.printf("%.4f%n", distanciaxy);
+    
+    entrada.close();
+    
     }
 }

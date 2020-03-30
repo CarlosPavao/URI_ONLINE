@@ -18,6 +18,8 @@ public class Uri_1004 {
         int a = entrada .nextInt();
         int b = entrada .nextInt();
         
+        entrada.close();
+        
         int prod = a*b;
         
         System.out.println("PROD = " + prod);

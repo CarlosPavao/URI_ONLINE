@@ -18,6 +18,8 @@ public class Uri_1003 {
         int a=entrada .nextInt();
         int b=entrada .nextInt();
         
+        entrada.close();
+        
         int soma=a+b;
         System.out.println("SOMA = " + soma);
    }

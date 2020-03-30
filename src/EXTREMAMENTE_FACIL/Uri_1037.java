@@ -37,6 +37,8 @@ public class Uri_1037 {
         }
         else{
             System.out.println("Fora de intervalo");
-        }   
+        }  
+        
+    entrada.close();
     }
 }

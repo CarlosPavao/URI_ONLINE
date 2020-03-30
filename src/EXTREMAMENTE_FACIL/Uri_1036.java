@@ -35,5 +35,8 @@ public class Uri_1036 {
 		System.out.printf("R1 = %.5f\n", R1);
 		System.out.printf("R2 = %.5f\n", R2);
         }
+   
+    entrada.close();
+    
     }
 }

@@ -21,5 +21,7 @@ public class Uri_1017 {
        double gasto = (horas*vel)/12.0;
        
         System.out.printf("%.3f%n",gasto);
+        
+        entrada.close();
     }
 }

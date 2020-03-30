@@ -17,7 +17,10 @@ public class Uri_1001 {
         
         int a=entrada .nextInt();
         int b=entrada .nextInt();
-         int x= a+b;
+        
+        entrada.close();
+        
+        int x= a+b;
         
          System.out.println("X = " +x);
                 

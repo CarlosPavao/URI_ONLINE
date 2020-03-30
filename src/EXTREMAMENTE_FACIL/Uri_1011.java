@@ -18,6 +18,8 @@ double R = entrada.nextDouble();
 double pi =  3.14159;
 double volume = (4/3.0)*pi*(R*R*R);
         System.out.printf("VOLUME = %.3f%n",volume);
+    
+    entrada.close();
     }    
    
 }

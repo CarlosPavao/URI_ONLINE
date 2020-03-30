@@ -33,7 +33,8 @@ public class Uri_1035 {
         }
         else{
                 System.out.println("Valores nao aceitos");
-                }
+        }
+    entrada.close();
     }
     
 }

@@ -21,5 +21,7 @@ public class Uri_1014 {
         
         System.out.printf("%.3f km/l%n",consumo);
         
+    entrada.close();
+    
     }
 }

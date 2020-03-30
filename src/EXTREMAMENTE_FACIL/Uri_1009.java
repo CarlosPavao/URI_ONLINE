@@ -14,11 +14,13 @@ import java.util.Scanner;
 public class Uri_1009 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-      String nome = entrada.next();
+      String pessoa = entrada.next();
       double sal = entrada.nextDouble();
       double vendas=entrada.nextDouble();
       
       double total = ((vendas*15)/100)+sal;
         System.out.printf("TOTAL = R$ %.2f%n ",total);
+
+    entrada.close();
     }
 }

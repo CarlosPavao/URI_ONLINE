@@ -35,6 +35,7 @@ public class Uri_1038 {
         else if(codigo==5){
             System.out.printf("Total: R$ %.2f%n",quantidade*1.50);
         }
+        entrada.close();
     }
     
 }

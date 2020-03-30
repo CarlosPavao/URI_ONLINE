@@ -23,5 +23,6 @@ public class Uri_1008 {
         System.out.println("NUMBER = " +num);
         System.out.printf("SALARY = U$ %.2f%n",salario);
         
+    entrada.close();
     }
 }
