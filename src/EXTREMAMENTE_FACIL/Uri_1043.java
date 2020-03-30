@@ -20,7 +20,4 @@ public class Uri_1043{
     
     entrada.close();
     }
-
-    
-
 }
