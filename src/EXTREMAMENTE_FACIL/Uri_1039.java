@@ -26,10 +26,9 @@ package EXTREMAMENTE_FACIL;
 
 import java.util.Scanner;
 import java.util.Locale;
-
 /**
  *
- * @author carlo
+ * @author Carlos Pavão <carlos.henrique93@msn.com>
  */
 public class Uri_1039 {
     public static void main(String[] args) {

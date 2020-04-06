@@ -13,8 +13,10 @@ Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou
 package EXTREMAMENTE_FACIL;
 
 import java.util.Scanner;
-
-
+/**
+ *
+ * @author Carlos Pavão <carlos.henrique93@msn.com>
+ */
 public class Uri_1041 {
     public static void main(String[] args) {
         Scanner entrada=new Scanner(System.in);

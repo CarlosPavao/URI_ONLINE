@@ -1,15 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package EXTREMAMENTE_FACIL;
 
 import java.util.Scanner;
-
 /**
  *
- * @author carlo
+ * @author Carlos Pavão <carlos.henrique93@msn.com>
  */
 public class Uri_1018 {
     public static void main(String[] args) {

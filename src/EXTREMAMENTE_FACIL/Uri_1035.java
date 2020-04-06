@@ -1,13 +1,4 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package EXTREMAMENTE_FACIL;
-
-import java.util.Scanner;
-
-/**
  * Leia 4 valores inteiros A, B, C e D. A seguir, se B for maior do que C e se D 
  * for maior do que A, e a soma de C com D for maior que a soma de A e B e se C 
  * e D, ambos, forem positivos e se a variável A for par escrever a mensagem 
@@ -16,8 +7,13 @@ Entrada
 Quatro números inteiros A, B, C e D.
 Saída
 Mostre a respectiva mensagem após a validação dos valores.
+ */
+package EXTREMAMENTE_FACIL;
+
+import java.util.Scanner;
+/**
  *
- * @author carlo
+ * @author Carlos Pavão <carlos.henrique93@msn.com>
  */
 public class Uri_1035 {
     public static void main(String[] args) {

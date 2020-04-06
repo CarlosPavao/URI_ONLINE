@@ -1,8 +1,3 @@
-package EXTREMAMENTE_FACIL;
-
-import java.util.Scanner;
-import java.util.Locale;
-
 /**Leia 3 valores de ponto flutuante e efetue o cálculo das raízes da equação de
  *Bhaskara. Se não for possível calcular as raízes, mostre a mensagem 
  *correspondente “Impossivel calcular”, caso haja uma divisão por 0 ou raiz de 
@@ -14,8 +9,14 @@ Saída
 * "Impossivel calcular". Caso contrário, imprima o resultado das raízes com 5 
 * dígitos após o ponto, com uma mensagem correspondente conforme exemplo abaixo.
 * Imprima sempre o final de linha após cada mensagem.
+ */
+package EXTREMAMENTE_FACIL;
+
+import java.util.Scanner;
+import java.util.Locale;
+/**
  *
- * @author carlo
+ * @author Carlos Pavão <carlos.henrique93@msn.com>
  */
 public class Uri_1036 {
     public static void main(String[] args) {
