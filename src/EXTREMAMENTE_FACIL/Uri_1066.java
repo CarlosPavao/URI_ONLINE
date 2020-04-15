@@ -1,8 +1,7 @@
 package EXTREMAMENTE_FACIL;
 /**
  *
- * @author Carlos Pavão 
- * <carlos.henrique93@msn.com>
+ * @author Carlos Pavão <carlos.henrique93@msn.com>
  */
 import java.util.Scanner;
 

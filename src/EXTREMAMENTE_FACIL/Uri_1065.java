@@ -1,5 +1,8 @@
 package EXTREMAMENTE_FACIL;
-
+/**
+ *
+ * @author Carlos Pavão <carlos.henrique93@msn.com>
+ */
 import java.util.Scanner;
 
 public class Uri_1065 {
