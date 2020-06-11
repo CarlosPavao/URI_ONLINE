@@ -18,7 +18,11 @@ Apresente o total de cobaias utilizadas, o total de cada tipo de cobaia utilizad
 */
 
 package EXTREMAMENTE_FACIL;
+<<<<<<< HEAD
 // @author Carlos Pavão <carlos.henrique93@msn.com>
+=======
+
+>>>>>>> 4cc42d7b7b28c3d1b585bc8409b38c335dcc1c70
 import java.util.Scanner;
 
 public class Uri_1094 {
