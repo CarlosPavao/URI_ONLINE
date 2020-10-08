@@ -21,16 +21,25 @@ da expressão.
 public class Uri_1866Conta {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-        int s=1;
-        int n = entrada.nextInt();
-        for(int i = 1; i <= n; i++){
-            if(i%2 == 0){
-                s +=1;
-            }else{
-                    s -= 1;
+        int qtdeTermos,x;
+        //quantidades de teste que ira ser realizada
+        int qtdeTeste = entrada.nextInt();
+        for(int i = 1; i <= qtdeTeste; i++){
+            qtdeTermos= entrada.nextInt();
+            x=0;
+            //toda vez que for par incrementa 1 quando for impar decrementa
+            for(int j=0;j< qtdeTermos;j++){
+                if(j%2 == 0){
+                    x++;
+                }else{
+                    x--;
                 }
+                    
             }
-            System.out.println(s);
+            System.out.println(x);
+            }
+            
+            
      entrada.close();  
     }
 }
