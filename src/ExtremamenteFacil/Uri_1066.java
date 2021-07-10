@@ -8,8 +8,11 @@ import java.util.Scanner;
 public class Uri_1066 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-
-        int par = 0,impar = 0,positivo = 0,negativo = 0,numero;
+        int positivo = 0;
+        int negativo = 0;
+        int par = 0;
+        int impar = 0;
+        int numero;
 
         for(int i = 0; i < 5; i++){
             numero = entrada.nextInt();
